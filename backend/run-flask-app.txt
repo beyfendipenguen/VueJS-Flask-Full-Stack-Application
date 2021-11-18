@@ -1,0 +1,8 @@
+How to run flask app in terminal.
+After activating the environment. 
+
+This command run on bash.
+
+1- export FLASK_APP=app.py 
+2- export FLASK_ENV=development
+3- flask run --reload
